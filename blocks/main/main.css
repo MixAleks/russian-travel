@@ -1,0 +1,16 @@
+.main {
+    display: grid;
+    row-gap: 92px;
+}
+
+@media screen and (max-width: 900px) {
+    .main {
+        row-gap: 88px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .main {
+        row-gap: 64px;
+    }
+}

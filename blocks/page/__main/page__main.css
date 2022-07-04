@@ -1,0 +1,22 @@
+.page__main {
+    margin-top: 58px;
+    margin-bottom: 92px;
+}
+
+@media screen and (max-width: 1179px) {
+    .page__main {
+        margin-top: 48px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .page__main {
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .page__main {
+        margin-bottom: 64px;
+    }
+}

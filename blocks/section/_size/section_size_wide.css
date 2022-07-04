@@ -1,0 +1,21 @@
+.section_size_wide {
+    max-width: calc(100% - 148px*2);
+}
+
+@media screen and (max-width: 1279px){
+    .section_size_wide {
+        max-width: calc(100% - 48px*2);
+    }
+}
+
+@media screen and (max-width: 900px){
+    .section_size_wide {
+        max-width: calc(100% - 24px*2);
+    }
+}
+
+@media screen and (max-width: 425px){
+    .section_size_wide {
+        max-width: 100%;
+    }
+}
