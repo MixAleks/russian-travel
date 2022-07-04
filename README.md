@@ -4,5 +4,5 @@
 
 Используемые технологии: HTML, CSS, БЭМ, Flexbox, Grid Layout, адаптивная верстка.
 
-Ссылка на проект -  https://mixaleks.github.io/russian-travel/.
+Ссылка на проект -  https://mixaleks.github.io/russian-travel/
 
